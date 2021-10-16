@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_Nw7woC3WEey3cIL-z2wUrQ">
+  <modelElement href="SocialMediaApp.uml#_Nn6-kC3WEey3cIL-z2wUrQ"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_kEDDAC36Eey3cIL-z2wUrQ" name="NewClass1">
+    <modelElement href="SocialMediaApp.uml#_kEBN0C36Eey3cIL-z2wUrQ"/>
+    <visualProperties xmi:id="_kEDDAS36Eey3cIL-z2wUrQ" position="-724.0,142.0" size="898.0,153.0"/>
+    <visibility xmi:id="_kEDDAi36Eey3cIL-z2wUrQ" label="+"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
